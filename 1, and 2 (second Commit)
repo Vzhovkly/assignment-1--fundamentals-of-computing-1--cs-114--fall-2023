@@ -1,0 +1,40 @@
+/*Victoria Zhovkly Assignment1.Java
+
+//////////////////////////////////////////
+//Imported Librairies 
+import java.util.Scanner;
+public class Assignment1{
+public static void main(String[] args){
+//////////////////////////////////////////
+/* This Program prints my initals (VZ) 
+System.out.println("\v\vVVV\v\v\t\t\v\vZZZ");
+System.out.println("VV\v\v\vVV\t\tZZ\v\v\vZZ");
+System.out.println("VV\t\tZZ");
+System.out.println("\v\vVV\tZZ");
+System.out.println("\v\v\v\v\v\vVV\tZZ");
+System.out.println("\v\v\v\v\v\vVV\tZZ");
+System.out.println("VV\v\v\v\vVV\tZZ\v\v\vZZ");
+System.out.println(\v\vVVVV\t\t\s\sCC");
+System.out.println ("\t");/////end program 
+
+
+/////////////////////
+public class TempConverter 
+{
+// Computes Fahrenheit equivalent of a specific Celcius 
+// value being used, formula used F=(9/5)C+32.
+
+public static void main(String[] args)
+{
+final int BASE= 32;
+final double CONVERsion-factor= 9.0/5.0;
+
+double fahernheitTemp;
+int celsiusTemp = 24; //value to convert
+
+FahrenheitTemp = celsiusTemp * CONVERSION_FACTOR+BASE;
+System.out.println("Celsius Temperature:" +celciusTemp);
+System.out.println("Fahrenheit Equivalent: "+ fahrenheitTemp);
+}
+}
+}
